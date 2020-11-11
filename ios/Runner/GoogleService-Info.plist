@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527221501044-rk98l3qvtk118oej2kec4iudvfv9elj7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527221501044-rk98l3qvtk118oej2kec4iudvfv9elj7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxSfMJbgxd1GpsKNJ12sPkvv8X2PEmsHQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527221501044</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.glorious.sanelanflutter</string>
+	<key>PROJECT_ID</key>
+	<string>chattest-a9a84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chattest-a9a84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527221501044:ios:4512088775ea9cd1483521</string>
+	<key>DATABASE_URL</key>
+	<string>https://chattest-a9a84.firebaseio.com</string>
+</dict>
+</plist>

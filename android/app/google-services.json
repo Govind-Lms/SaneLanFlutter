@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062328721643",
+    "firebase_url": "https://sanelan-1201.firebaseio.com",
+    "project_id": "sanelan-1201",
+    "storage_bucket": "sanelan-1201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062328721643:android:e4d66a9b5c6ab7eceb5eae",
+        "android_client_info": {
+          "package_name": "com.glorious.sanelanflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062328721643-7cmiggqsfhgqkv8v3bn6e02tho3bfc3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuU0uBBvdySsKc4yDiA59-vuvkexsnos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062328721643-7cmiggqsfhgqkv8v3bn6e02tho3bfc3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
